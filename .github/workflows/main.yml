@@ -37,7 +37,10 @@ jobs:
           echo
           echo is java installed?
           java -version
+          echo
+          echo is git installed?
           git --version
+          echo what about build tools?
           mvn --verison
           gradle --version
           ant -version
