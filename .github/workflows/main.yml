@@ -34,7 +34,7 @@ jobs:
         run: |
           echo what is in this directory ?
           ls -a
-          java -- version
+          java --version
           git --version
           mvn --verison
           gradle --version
