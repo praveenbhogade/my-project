@@ -38,4 +38,4 @@ jobs:
           git --version
           mvn --verison
           gradle --version
-          ant --version
+          ant -version
